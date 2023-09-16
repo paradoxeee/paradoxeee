@@ -2,6 +2,8 @@
 <h3 align="center">Where Black Magic Code Rises From The Abyss</h3>
 
 <h3 align="left">Connect with me:</h3>
+
+![](https://dcbadge.vercel.app/api/shield/925442437491609640)
 <p align="left">
 </p>
 

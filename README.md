@@ -17,7 +17,7 @@ I wield the tools of my trade to forge silent solutions that defend and secure.
 In the dark, I hunt for vulnerabilities, always with the intent to protect. Each project is a mission to shield the fragile from unseen dangers lurking in the code.
 
 📧 **Contact**  
-Contact me via email: **[parad0xee@proton.me]**
+Contact me via email: **parad0xeee@proton.me**
   
 Buy me a coffee : `0x43d3942298b7b0ff2396569002e5c61c143163C0`
 

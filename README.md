@@ -1,3 +1,6 @@
+
+![Logo](https://i.ibb.co/HTMFqcg/Logo-Design.jpg)
+
 <h1 align="center">Paradoxe, The Underground Code Vault</h1>
 <h3 align="center">Where Black Magic Code Rises From The Abyss</h3>
 

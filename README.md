@@ -1,16 +1,34 @@
+<h1 align="center">Paradox</h1>
+<p align="center"><i>The Underground Code Vault</i></p>
+<p align="center"><i>Where Black Magic Code Rises From The Abyss</i></p>
 
+---
 
-<h1 align="center">Paradoxe, The Underground Code Vault</h1>
-<h3 align="center">Where Black Magic Code Rises From The Abyss</h3>
+👤 **Who Am I?**  
+A ghost coder, rising from the depths of the digital void. I don’t just write code, I unveil the hidden layers of the cybernetic realm. Each line is a key, unlocking mysteries few dare to explore.
 
-<h3 align="left">Connect with me:</h3>
+💡 **Mastery of the Craft**  
+I wield the tools of my trade to forge silent solutions that defend and secure.  
+- **Languages**: Bash, C, C++, JavaScript, Python  
+- **Frameworks & Databases**: MySQL, SQLite  
+- **Environments**: Linux
 
-![](https://dcbadge.vercel.app/api/shield/925442437491609640)
-<p align="left">
-</p>
+🔒 **Ethical Hacking & Cybersecurity**  
+In the dark, I hunt for vulnerabilities, always with the intent to protect. Each project is a mission to shield the fragile from unseen dangers lurking in the code.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+📧 **Contact**  
+Contact me via email: **[parad0xee@proton.me]**
+  
+Buy me a coffee : `0x43d3942298b7b0ff2396569002e5c61c143163C0`
 
-<h3 align="left">Support:</h3>
-<p>buy me a cofe : 0x43d3942298b7b0ff2396569002e5c61c143163C0</p><br><br>
+---
+
+### Languages & Tools
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)

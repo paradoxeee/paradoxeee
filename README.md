@@ -20,7 +20,7 @@ In the dark, I hunt for vulnerabilities, always with the intent to protect. Each
 Contact me via email: **contact@giannigualtieri.fr**
   
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/giiiaannii) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://https://buymeacoffee.com/giiiaannii) 
 
 ---
 

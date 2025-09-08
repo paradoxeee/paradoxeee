@@ -1,3 +1,5 @@
+![Texte alternatif]([https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHN4bDluMWF0OXp2bTU1YXZ5czJsc3c4dmZwNDZ1MzVuNmFpaXRqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZpgxM6PIt52OABtcUH/giphy.gif))
+
 <h1 align="center">Paradox</h1>
 <p align="center"><i>The Underground Code Vault</i></p>
 <p align="center"><i>Where Black Magic Code Rises From The Abyss</i></p>

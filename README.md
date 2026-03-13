@@ -1,22 +1,18 @@
 ## **Paradoxe** - *Excellence leaves no signature.*
 
-I explore systems.
-
-Software, infrastructure, networks, hardware —  
-the architecture of the modern digital world.
+I explore systems.<br>
+Understanding how they work,<br>
+and why they fail.
 
 <h3>Focus</h3>
 
 <ul>
   <li>Cybersecurity</li>
   <li>Software engineering</li>
-  <li>Social engineering</li>
   <li>Web technologies</li>
   <li>Systems</li>
   <li>Electronics</li>
 </ul>
-
-<br>
 
 
 #### *The work matters.*</br> *The name does not.*

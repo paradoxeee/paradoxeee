@@ -1,38 +1,26 @@
-<h1 align="center">Paradox</h1>
-<p align="center"><i>The Underground Code Vault</i></p>
-<p align="center"><i>Where Black Magic Code Rises From The Abyss</i></p>
+## **Paradoxe** - *Excellence leaves no signature.*
 
----
+I explore systems.
 
-👤 **Who Am I?**  
-A ghost coder, rising from the depths of the digital void. I don’t just write code, I unveil the hidden layers of the cybernetic realm. Each line is a key, unlocking mysteries few dare to explore.
+Software, infrastructure, networks, hardware —  
+the architecture of the modern digital world.
 
-💡 **Mastery of the Craft**  
-I wield the tools of my trade to forge silent solutions that defend and secure.  
-- **Languages**: Bash, C, C++, JavaScript, Python  
-- **Frameworks & Databases**: MySQL, SQLite  
-- **Environments**: Linux
+<h3>Focus</h3>
 
-🔒 **Ethical Hacking & Cybersecurity**  
-In the dark, I hunt for vulnerabilities, always with the intent to protect. Each project is a mission to shield the fragile from unseen dangers lurking in the code.
+<ul>
+  <li>Cybersecurity</li>
+  <li>Software engineering</li>
+  <li>Social engineering</li>
+  <li>Web technologies</li>
+  <li>Systems</li>
+  <li>Electronics</li>
+</ul>
 
-📧 **Contact**  
-Contact me via email: **contact@giannigualtieri.fr**
-  
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/giiiaannii) 
+<br>
 
----
 
-### Languages & Tools
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+#### *The work matters.*</br> *The name does not.*
+
 
 ###
 

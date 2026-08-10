@@ -9,7 +9,7 @@
 <p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paradoxeee/paradoxeee/main/assets/card-dark.svg">
-    <img alt="Paradoxe — Security &amp; software engineering. Excellence leaves no signature. I explore systems — how they work, and why they fail. Focus: Cybersecurity, Software engineering, Web, Systems, Electronics. Bangkok, Thailand." src="https://raw.githubusercontent.com/paradoxeee/paradoxeee/main/assets/card-light.svg">
+    <img alt="Paradoxe — Security &amp; software engineering. The work matters. The name does not. I explore systems — how they work, and why they fail. Focus: Cybersecurity, Software engineering, Web, Systems, Electronics. Bangkok, Thailand." src="https://raw.githubusercontent.com/paradoxeee/paradoxeee/main/assets/card-light.svg">
   </picture>
 </p>
 
@@ -30,6 +30,6 @@
 <p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paradoxeee/paradoxeee/main/assets/signoff-dark.svg">
-    <img alt="The work matters. The name does not." src="https://raw.githubusercontent.com/paradoxeee/paradoxeee/main/assets/signoff-light.svg">
+    <img alt="Excellence leaves no signature." src="https://raw.githubusercontent.com/paradoxeee/paradoxeee/main/assets/signoff-light.svg">
   </picture>
 </p>

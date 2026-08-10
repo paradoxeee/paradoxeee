@@ -1,24 +1,31 @@
-## **Paradoxe** - *Excellence leaves no signature.*
+<!--
+  Paradoxe — paradoxe.one
+  Excellence leaves no signature.
+-->
 
-I explore systems.<br>
-Understanding how they work,<br>
-and why they fail.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paradoxeee/paradoxeee/main/assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paradoxeee/paradoxeee/main/assets/header-light.svg">
+  <img alt="Paradoxe — Excellence leaves no signature." src="https://raw.githubusercontent.com/paradoxeee/paradoxeee/main/assets/header-light.svg">
+</picture>
 
-<h3>Focus</h3>
+<br>
 
-<ul>
-  <li>Cybersecurity</li>
-  <li>Software engineering</li>
-  <li>Web technologies</li>
-  <li>Systems</li>
-  <li>Electronics</li>
-</ul>
+I explore systems — how they work, and why they fail.
 
+<br>
 
-#### *The work matters.*</br> *The name does not.*
+### Focus
 
+`Cybersecurity` &nbsp;`Software engineering` &nbsp;`Web` &nbsp;`Systems` &nbsp;`Electronics`
 
-###
+<br>
+
+### Elsewhere
+
+[paradoxe.one](https://paradoxe.one) &nbsp;·&nbsp; [Telegram](https://t.me/paradoxe3) &nbsp;·&nbsp; [Email](mailto:contact.paradoxee@proton.me) &nbsp;·&nbsp; Discord `paradoxee`
+
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paradoxeee/paradoxeee/output/pacman-contribution-graph-dark.svg">
@@ -26,4 +33,6 @@ and why they fail.
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/paradoxeee/paradoxeee/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+<br>
+
+<sub>The work matters. The name does not.</sub>
